@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GoogleTest-Sailbot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SailbotChallenge.cpp
+C:\Users\Joshua PC\source\repos\GoogleTest-Sailbot\SailbotChallenge.cpp(74,94): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Joshua PC\source\repos\GoogleTest-Sailbot\SailbotChallenge.cpp(75,94): warning C4804: '>=': unsafe use of type 'bool' in operation
+  GoogleTest-Sailbot.vcxproj -> C:\Users\Joshua PC\source\repos\SailbotChallenge\Debug\SailbotChallengeWithGoogleTest.exe

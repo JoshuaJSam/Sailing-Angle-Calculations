@@ -1,0 +1,12 @@
+1. Clone repository into computer
+
+*in your local directory where you want the repo to be*
+*cd SailbotRepo*
+git init
+git clone https://bitbucket.ubcsailbot.org/projects/TOOLS/repos/bash-settings my_repo
+ 
+2. Commit new files
+
+git add wind_angles.inc TestWindAngles.h    (or "git add ." to add everything, if you want to push all changed files, this is faster )
+git commit -m "Tuned wind anglesand added unit tests."
+git push
